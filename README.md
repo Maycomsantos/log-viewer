@@ -1,0 +1,1 @@
+O foco desse projeto é criar um painel gráfico de visualização de logs utilizadando Laravel + Spatie Activy Log
